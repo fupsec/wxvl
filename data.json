@@ -26820,5 +26820,6 @@
     "https://mp.weixin.qq.com/s/2vBN21nh0KK6tF7tpx8z8w": "GitLab CVE-2026-85706路径遍历漏洞：无认证任意文件读取",
     "https://mp.weixin.qq.com/s/2TyIwuivZQ6wJ7Mm-E3RYw": "【2026hvv】搜狗一键RCE漏洞之三个\"各自不算致命\"的缺陷如何变成 Critical，文章详谈~【附验证exp】",
     "https://mp.weixin.qq.com/s/HZXA47-_Gt9AdU8A8eCYrQ": "WooCommerce批发潜客捕获插件漏洞遭在野利用",
-    "https://mp.weixin.qq.com/s/gmVrqqnkAXo4cL4U9eQcIw": "Avast 防病毒软件零日漏洞利用概念验证允许攻击者导出 SAM 数据库并获得 SYSTEM Shell"
+    "https://mp.weixin.qq.com/s/gmVrqqnkAXo4cL4U9eQcIw": "Avast 防病毒软件零日漏洞利用概念验证允许攻击者导出 SAM 数据库并获得 SYSTEM Shell",
+    "https://mp.weixin.qq.com/s/x-1QzlFO8ffKL5DpOJTvPg": "CNVD漏洞周报2026年第36期"
 }
