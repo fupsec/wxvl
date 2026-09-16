@@ -26847,5 +26847,6 @@
     "https://mp.weixin.qq.com/s/Dys5lUgDo39zIv4wEOaOSQ": "Fortinet FortiWeb 8.0–8.0.1 未授权 RCE 利用链地下售卖事件",
     "https://mp.weixin.qq.com/s/eN7zn6kvuNzWR_tDz0SwVg": "Cisco邮件网关9.8分漏洞被在野利用：一封邮件直接拿root，没有任何绕过的余地",
     "https://mp.weixin.qq.com/s/UAywPSxyEDaHD9XkWZ93QQ": "【漏洞通告】Oracle WebLogic Server未授权远程接管漏洞（CVE-2026-70756)",
-    "https://mp.weixin.qq.com/s/Hg5KbPZeA24zDtKcHWI9Pg": "cPanel：LiteSpeed Web Server 企业版严重漏洞可导致提权"
+    "https://mp.weixin.qq.com/s/Hg5KbPZeA24zDtKcHWI9Pg": "cPanel：LiteSpeed Web Server 企业版严重漏洞可导致提权",
+    "https://mp.weixin.qq.com/s/g7C_-SkNwavzz5K3kODpsg": "众测 30 分钟挖到鸿蒙App高危上传漏洞 | 从 APP 一条异常图片请求，发现被忽略的外围攻击面"
 }
