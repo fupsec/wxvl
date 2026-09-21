@@ -26992,5 +26992,7 @@
     "https://mp.weixin.qq.com/s/z5x4ksLh554DbY7FuAU7Sg": "漏洞利用概率更新了，补丁优先级为什么不能只按分数排？",
     "https://mp.weixin.qq.com/s/VbC7MJGR3SNkXUnW-oiQzw": "AI agent提示词：适用渗透测试&src漏洞挖掘工作流模版分享！",
     "https://mp.weixin.qq.com/s/gXcwoDdZwk1VtVzs-N7Jjw": "一次扫描出141个子域+201个漏洞目标，这个AI侦察引擎太猛了",
-    "https://mp.weixin.qq.com/s/QebTP9rX3KvQMRpdCkf1Gg": "CVE复现 | CVE-2026-39363漏洞复现"
+    "https://mp.weixin.qq.com/s/QebTP9rX3KvQMRpdCkf1Gg": "CVE复现 | CVE-2026-39363漏洞复现",
+    "https://mp.weixin.qq.com/s/sp3LI-DNcEjvg5QkkDdVvw": "vBulletin 存在严重身份验证前远程代码执行漏洞，可执行任意 PHP 代码",
+    "https://mp.weixin.qq.com/s/3DH8B5dMS9mtvfEIlQ1wHg": "(9.9分) CVE-2026-94095：Netcore企业路由器traceroute命令注入"
 }
