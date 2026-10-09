@@ -27471,5 +27471,6 @@
     "https://mp.weixin.qq.com/s/GuUNxX_y69sPYe78iane8w": "思科：注意可导致 Nexus 交换机遭接管的多个严重漏洞",
     "https://mp.weixin.qq.com/s/mgm2VSZzSmsK8FegWyi5Dg": "刚升完级又被打崩：NetScaler SAML 内存溢出零日，专打已修补设备（CVE-2026-88779）",
     "https://mp.weixin.qq.com/s/uKR16uxOoiT57MX9iApCNQ": "复现Atlassian系统任意文件读取漏洞(CVE-2026-21589)",
-    "https://mp.weixin.qq.com/s/NRfIHxGCMEq3kovBTuD3Zg": "Telegram Desktop：一次点击就能接管账号的 IPC 注入漏洞"
+    "https://mp.weixin.qq.com/s/NRfIHxGCMEq3kovBTuD3Zg": "Telegram Desktop：一次点击就能接管账号的 IPC 注入漏洞",
+    "https://mp.weixin.qq.com/s/-ayQDomcbhlISg89MAmCfg": "LibreOffice Calc曝(CVE-2026-63277)，恶意电子表格可绕过宏提示触发Java代码执行"
 }
