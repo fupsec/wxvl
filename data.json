@@ -27591,5 +27591,15 @@
     "https://mp.weixin.qq.com/s/E_0HUMHfETSRqnNinljMLQ": "【高危漏洞预警】FortiMail未授权任意文件写入漏洞CVE-2026-104286",
     "https://mp.weixin.qq.com/s/4Z28qytlWHIREiWhtXClEw": "雷神众测漏洞周报2026.9.21-2026.10.11",
     "https://mp.weixin.qq.com/s/mshBkQtBZ3wZnBTQR9xiCw": "改一个数字就能看到别人的订单 越权漏洞凭什么20年没治好",
-    "https://mp.weixin.qq.com/s/Ih6trz-LuznNY_5ZHkhrNA": "每周网安资讯（10.9-10.12）| D-Link路由器命令注入高危漏洞"
+    "https://mp.weixin.qq.com/s/Ih6trz-LuznNY_5ZHkhrNA": "每周网安资讯（10.9-10.12）| D-Link路由器命令注入高危漏洞",
+    "https://mp.weixin.qq.com/s/Mko0iLQgm-BZqQ-YCstoWQ": "GraphQL 漏洞 Part-2：深度嵌套 DoS、IDOR 越权与错误消息泄漏实战",
+    "https://mp.weixin.qq.com/s/IeNckCVu-Dgtj2C4jYyzqg": "LMCache 严重远程代码执行漏洞仍未修复，公开的 PoC 漏洞利用程序已发布",
+    "https://mp.weixin.qq.com/s/uddPSvCaNinql5Z7tcONjA": "Nacos 综合漏洞利用工具（重构版）",
+    "https://mp.weixin.qq.com/s/m9UJaNZ2yT0Sr7qVlvu5DQ": "赛博安全狗：pH7Builder 旧版本存在硬编码 API 密钥绕过漏洞 (10.12)",
+    "https://mp.weixin.qq.com/s/mnsCXCUUtM9vKM7hD_J1kA": "(9.9分) CVE-2026-96012：IBM Db2 Mirror提权漏洞",
+    "https://mp.weixin.qq.com/s/DPdme7WEibuFwEglRtJG4A": "漏洞预警 | PostgreSQL符号链接跟随漏洞",
+    "https://mp.weixin.qq.com/s/Lr-v9zBJqmMPZoES6epLwQ": "漏洞预警 | Telegram Desktop IPC记录注入漏洞",
+    "https://mp.weixin.qq.com/s/A32meosc9G-yGS4vIVjeMQ": "漏洞扫描做完了：顺着一条“高危”往下查，验收才刚开始",
+    "https://mp.weixin.qq.com/s/xvj8gZcpOeJNtZRz7pMZXg": "NVIDIA曝高危漏洞，超2000台GPU监控主机暴露公网",
+    "https://mp.weixin.qq.com/s/EuFOqu4qOhEYxbYvdDJ9Uw": "VPN网关爆出10分漏洞正在被利用 自查加固全流程我替你跑通了"
 }
