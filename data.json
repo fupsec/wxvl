@@ -27875,5 +27875,7 @@
     "https://mp.weixin.qq.com/s/HO65vIMMJFgKuLLBzR6GeA": "月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥",
     "https://mp.weixin.qq.com/s/hBD21o1y-Gq3WwqrJNWAhQ": "关于TSRC漏洞奖励方案调整及测试行为违规通报的公告",
     "https://mp.weixin.qq.com/s/bYzGVZCyIb2sO-dH_YWTTg": "漏洞速递 | CVE-2026-108097 Drupal RCE漏洞（附下载）",
-    "https://mp.weixin.qq.com/s/xTb5J9wtlH7lm5ajhNFdSA": "【安全圈】双11前紧急叫停！京东JSRC全面暂停外部漏洞测试"
+    "https://mp.weixin.qq.com/s/xTb5J9wtlH7lm5ajhNFdSA": "【安全圈】双11前紧急叫停！京东JSRC全面暂停外部漏洞测试",
+    "https://mp.weixin.qq.com/s/Gg8tbK02EZLdg6-yZv4Y_g": "记一次有趣的逻辑漏洞挖洞经历",
+    "https://mp.weixin.qq.com/s/cIzQxn-clIRd-KsC89CU6Q": "SPIP X-Spip-Filtrej接口存在远程代码执行漏洞CVE-2026-77806  附POC"
 }
