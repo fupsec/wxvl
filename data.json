@@ -28385,5 +28385,9 @@
     "https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w": "CVE-2026-110264：GitLab Onigmo 正则引擎整数溢出未授权 RCE 漏洞分析",
     "https://mp.weixin.qq.com/s/6Hj9P4u8zZMC1wc0z5kacQ": "第177篇：Struts2全版本漏洞检测工具v20.11（内存马版）+新增注入内存马功能",
     "https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ": "PHP2Shell 已被用于攻击 PAN-OS 管理接口：从 PHP RCE 到防火墙 Root",
-    "https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A": "同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈"
+    "https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A": "同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈",
+    "https://mp.weixin.qq.com/s/7Z2bFZaewpNNryGyV5_dFQ": "Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)",
+    "https://mp.weixin.qq.com/s/yI-JKlgL5aK2BkvbFMJZwA": "一个 IDOR 漏洞能走多远？从普通用户到服务器权限的完整利用链拆解",
+    "https://mp.weixin.qq.com/s/u4y80MPHBu5OiItVRmxYxQ": "【CVE-2026-98432】TCP爆出释放后重用漏洞，CVSS 评分9.8！",
+    "https://mp.weixin.qq.com/s/R09YX0ILnpZdNNlkPYz3tw": "4 千星项目把安全研究做成流水线：一个浏览器标签页装下 616 篇漏洞复现、CTF 赛题与红队全流程"
 }
