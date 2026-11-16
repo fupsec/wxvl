@@ -28790,5 +28790,8 @@
     "https://mp.weixin.qq.com/s/uaQ7eHueGHgwKlddnuPmyw": "CVE-2026-117551：一个 GIF 文件头，一段 PHP 短标签，Joomla 下载管理器把上传按钮变成了 root shell",
     "https://mp.weixin.qq.com/s/15j1PXkxcfW1nD2uG1PEKQ": "AI 辅助代码审计挖 0day：用 LLM 读完 10 万行代码的方法",
     "https://mp.weixin.qq.com/s/_tTtfh2TXRucxy5Su5OSgg": "错误信息泄露枚举值导致权限提升漏洞",
-    "https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w": "漏洞预警 | JeecgBoot SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w": "漏洞预警 | JeecgBoot SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/XOubK1C0cKRxON5dp2RoRg": "CVE-2026-129353：一台早已停产的 D-Link 路由器，一个 2100 字节的 id 参数，和一条通往 root 的栈溢出",
+    "https://mp.weixin.qq.com/s/XoTqbl1sNJeKgjT3e6YKKg": "ELEX HelpDesk 前台 RCE 代码分析：工单表单里躺了六年的 PHP 反序列化",
+    "https://mp.weixin.qq.com/s/8HombD42eTGhS6LhDghx6w": "Check Point Gaia OS 本地提权漏洞，已在野利用，CISA 纳入 KEV 清单"
 }
