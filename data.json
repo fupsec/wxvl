@@ -28830,5 +28830,7 @@
     "https://mp.weixin.qq.com/s/2AtPDgAh8UY9jOPGgbxE8A": "CVE-2026-62911：一个被写成无需凭据的 Exchange 漏洞",
     "https://mp.weixin.qq.com/s/eB_ozKwuitzm2zXhWv8Lag": "AI生成补丁成黑客攻击路线图，漏洞修复攻防差距持续拉大",
     "https://mp.weixin.qq.com/s/C4dqFPPHU16am7hDIpxaJw": "微软亲手挖的坑？CLFS认证机制曝出提权漏洞",
-    "https://mp.weixin.qq.com/s/7pzEs3HGvb6pYogkZdOvqg": "【漏洞通告】LibreOffice任意代码执行漏洞（CVE-2026-104007、CVE-2026-104692)"
+    "https://mp.weixin.qq.com/s/7pzEs3HGvb6pYogkZdOvqg": "【漏洞通告】LibreOffice任意代码执行漏洞（CVE-2026-104007、CVE-2026-104692)",
+    "https://mp.weixin.qq.com/s/P8HHmufULlKJrH16357NIQ": "OpenAI推出Daybreak安全工具：AI智能体自动化漏洞验证与修复；国家信息安全服务资质（网络安全监理类一级）正式发布| 牛览",
+    "https://mp.weixin.qq.com/s/c1e02Poy3baobXZj095TsQ": "【已复现】CVE-2026-90436 Confluence 远程 API SOAP 组件 Apache Axis 命令执行漏洞"
 }
