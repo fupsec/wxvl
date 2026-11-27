@@ -29043,5 +29043,10 @@
     "https://mp.weixin.qq.com/s/UTttAxZe91qSfoIwUIyW_Q": "【漏洞通告】Linux内核NFS越界写入漏洞（CVE-2026-99362）",
     "https://mp.weixin.qq.com/s/hCZIEqKCDy63UBIJhvYBQg": "CVE-2026-119853 Windows RAS 服务提权漏洞分析",
     "https://mp.weixin.qq.com/s/Yb1_WtjhmG5ToQRF0XluMA": "【一天一个nacos漏洞·第二十天】【高危】输入校验绕过：NaN 权重与可控过期阈值",
-    "https://mp.weixin.qq.com/s/kf9kqhh0d_uGLZvahCpWFQ": "CVE-2026-97798"
+    "https://mp.weixin.qq.com/s/kf9kqhh0d_uGLZvahCpWFQ": "CVE-2026-97798",
+    "https://mp.weixin.qq.com/s/V3OinR4jGBuxYgz-re79ew": "俄罗斯黑客利用 Zimbra 0-Day 漏洞，零点击邮箱秒没",
+    "https://mp.weixin.qq.com/s/GzTcylo5XZ_D8ZuAUEZxJQ": "Palo Alto Networks 警告：黑客利用了 Fragnesia 漏洞攻击了 PAN-OS 系统",
+    "https://mp.weixin.qq.com/s/rKC3cCHyeEamnFoj5haqIg": "Node 单线程也有竞态：Parse Server 多 OAuth2 Provider CVE-2026-32242漏洞分析",
+    "https://mp.weixin.qq.com/s/kJME5Zo4j0Kz9j3WMp9JBA": "LiteLLM MCP OAuth2 passthrough 认证绕过复现与分析",
+    "https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw": "美国网络安全和基础设施安全局 (CISA) 警告：黑客正在积极利用思科、VMware、SAP 和 Apache 的漏洞"
 }
